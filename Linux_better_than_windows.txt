@@ -1,0 +1,11 @@
+Linux				Windows
+
+ingyen van			nagyon drága
+
+Bármit megnged, 		Nem enged meg mindent, 
+de le lehet korlátozni  	és nem lehet engedélyezni 
+biztonsági szmpontokból		minden funkciót
+
+mivel kevesen használják	Szinte mindenki windowst használ
+szinte egyátalán nics rá vírus	ezért rengeteg vírust írnak rá
+
